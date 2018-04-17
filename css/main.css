@@ -1,0 +1,14 @@
+.menu li {
+    list-style-type: none;
+    margin: 5px;
+    padding: 3px;
+}
+.text {
+    border: 1px red solid;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    color: blue;
+}
