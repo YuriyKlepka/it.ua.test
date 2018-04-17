@@ -10,7 +10,7 @@ simpleFunction($array,12);
 //Task 2
 $a = 10.67;
 $b = 31.21;
-//echo intval ( $a + $b ); = 41
+//echo intval ( $a + $b ); = вернет 41 так как int целочисленный тип данны
 
 //Task 3
 $deal_id = 387;
